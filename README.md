@@ -85,6 +85,11 @@ October 1-3, 2020
 Brussels, Belgium  
 http://www.eha-heales.org/  
 
+Longevity Investors Conference  
+original date/loc: Oct 1, 2020 (St. Moritz, Switzerland)  
+covid-19 resched: Oct 1, 2020 (online)  
+https://www.longevityinvestors.ch/  
+
 Undoing Aging - Reimagine Aging  
 "Accelerating rejuvenation therapies to repair the damage of aging"  
 SENS Research Foundation  
