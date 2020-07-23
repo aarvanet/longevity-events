@@ -75,10 +75,11 @@ www.neurobiology-and-neuroendocrinology-of-aging.org
   
 ### Aug
 
+Aug 20-21 (online)  
 EARD 2020: Ending Age-Related Diseases 2020  
-original date/loc: Aug 20-21, 2020 (New York City, USA)  
-covid-19 resched: Aug 20-21, 2020 (online)  
 https://www.lifespan.io/eard-2020-virtual/  
+- original date/loc: Aug 20-21, 2020 (New York City, USA)  
+- covid-19 resched: Aug 20-21, 2020 (online)  
 - registration: https://www.eventbrite.com/e/ending-age-related-diseases-2020-tickets-94918805703  
   - Premium Ticket: $532.07 (sales end Aug 20)  
     - A $500 premium ticket that will allow you to have access to all of the main event content and recordings, participate in polls and Q&A, and join the open chats and open video discussions. On top of that, it will allow you to interact with the researchers over breakout sessions as part of the premium networking program. All tickets include exclusive free access to 3-hour workshop Developing a Biotechnology Startup by Dr. Kelsey Moody, recorded at last year's conference, which will be broadcast during the event.  
@@ -89,40 +90,38 @@ https://www.lifespan.io/eard-2020-virtual/
   
 ### Sep
 
+Sep 1-4 (online)  
 ARDD 2020: 7th Aging Resarch & Drug Discovery Meeting  
-Sep 1-4, 2020 (online)  
 http://agingpharma.org/  
-
-Ageing cognition  
-The CAJAL Advanced Neuroscience Training Programme  
-September 14 – October 2, 2020, Bordeaux School of Neuroscience, France  
-https://www.fens.org/Training/CAJAL-programme/CAJAL-courses-2020/AC-2020/  
 
 ### Oct
 
-Fifth Eurosymposium on Healthy Ageing (EHA)  
-October 1-3, 2020  
-Brussels, Belgium  
-http://www.eha-heales.org/  
-
+Oct 1 (online)
 Longevity Investors Conference  
-original date/loc: Oct 1, 2020 (St. Moritz, Switzerland)  
-covid-19 resched: Oct 1, 2020 (online)  
 https://www.longevityinvestors.ch/  
+- original date/loc: Oct 1, 2020 (St. Moritz, Switzerland)  
+- covid-19 resched: Oct 1, 2020 (online)  
 
+TBD (online)  
+Fifth Eurosymposium on Healthy Ageing (EHA)  
+http://www.eha-heales.org/  
+- original date/loc: Oct 1-3, 2020  (Brussels, Belgium)  
+- covid-19 resched: TBD (online)  
+
+Oct 21-23 (Berlin, Germany)
 Undoing Aging - Reimagine Aging  
-"Accelerating rejuvenation therapies to repair the damage of aging"  
-SENS Research Foundation  
-Forever Healthy Foundation  
-original date/loc: May 21-23, 2020 (Berlin, Germany)  
-covid-19 resched: Oct 21-23, 2020 (Berlin, Germany)  
 https://www.undoing-aging.org/  
+- original date/loc: May 21-23, 2020 (Berlin, Germany)  
+- covid-19 resched: Oct 21-23, 2020 (Berlin, Germany)  
+- "Accelerating rejuvenation therapies to repair the damage of aging"  
+- SENS Research Foundation / Forever Healthy Foundation  
 
 ### Nov
 
-Gerontological Society of America (GSA)  
-Annual Scientific Meeting  
-November 4 - 8, 2020, Philadelphia, Pennsylvania  
-https://www.geron.org/meetings-events/future-gsa-annual-scientific-meetings  
+Nov 4-8 (online)  
+GSA 2020: Gerontological Society of America Annual Scientific Meeting  
+https://www.geron.org/meetings-events/gsa-2020-annual-scientific-meeting  
+- original date/loc: Nov 4-8, 2020 (Philadelphia, USA)  
+- covid-19 resched: Nov 4-8, 2020 (online)  
   
 ### Dec
