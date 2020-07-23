@@ -1,6 +1,8 @@
 # longevity-events
-  
-## 2020  
+
+Initial list via John D. Furber's compilation: https://legendarypharma.com/age-calendar-archive20191128.pdf  
+
+## 2020
   
 Expanded Access Summit 3.0  
 Third Annual Expanded Access Summit  
