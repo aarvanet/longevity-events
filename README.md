@@ -108,14 +108,6 @@ http://www.eha-heales.org/
 - original date/loc: Oct 1-3, 2020  (Brussels, Belgium)  
 - covid-19 resched: TBD (online)  
 
-Oct 21-23 (Berlin, Germany)
-Undoing Aging - Reimagine Aging  
-https://www.undoing-aging.org/  
-- original date/loc: May 21-23, 2020 (Berlin, Germany)  
-- covid-19 resched: Oct 21-23, 2020 (Berlin, Germany)  
-- "Accelerating rejuvenation therapies to repair the damage of aging"  
-- SENS Research Foundation / Forever Healthy Foundation  
-
 ### Nov
 
 Nov 4-8 (online)  
@@ -125,3 +117,14 @@ https://www.geron.org/meetings-events/gsa-2020-annual-scientific-meeting
 - covid-19 resched: Nov 4-8, 2020 (online)  
   
 ### Dec
+
+## 2021  
+
+Oct 21-23 (Berlin, Germany)
+Undoing Aging - Reimagine Aging  
+https://www.undoing-aging.org/  
+- original date/loc: May 21-23, 2020 (Berlin, Germany)  
+- covid-19 resched: Oct 21-23, 2020 (Berlin, Germany)  
+- second resched: May 13-15, 2021 (Berlin, Germany)  
+- "Accelerating rejuvenation therapies to repair the damage of aging"  
+- SENS Research Foundation / Forever Healthy Foundation  
