@@ -130,3 +130,9 @@ https://www.undoing-aging.org/
 - second resched: May 13-15, 2021 (Berlin, Germany)  
 - "Accelerating rejuvenation therapies to repair the damage of aging"  
 - SENS Research Foundation / Forever Healthy Foundation  
+- registration: https://www.eventbrite.de/e/undoing-aging-2021-tickets-62462553178  
+  - Regular: €850.00 (Sales end on May 13, 2021)  
+  - Regular (Early Bird): €650.00 (Sales end on Mar 5, 2021)  
+  - Student: €300.00 (Sales end on May 13, 2021)  
+  - Student (Early Bird): €200.00 (Sales end on Mar 5, 2021)  
+
