@@ -96,7 +96,7 @@ http://agingpharma.org/
 
 ### Oct 2020
 
-Oct 1 (online)
+Oct 1 (online)  
 Longevity Investors Conference  
 https://www.longevityinvestors.ch/  
 - original date/loc: Oct 1, 2020 (St. Moritz, Switzerland)  
