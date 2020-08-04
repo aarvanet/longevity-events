@@ -4,7 +4,7 @@ Initial list via John D. Furber's compilation: https://legendarypharma.com/age-c
 
 ## 2020
 
-### Jan
+### Jan 2020
   
 Expanded Access Summit 3.0  
 Third Annual Expanded Access Summit  
@@ -16,7 +16,7 @@ Longevity Therapeutics
 January 28-30, 2020, San Francisco, California  
 https://longevity-therapeutics.com/about/full-event-guide/  
   
-### Feb
+### Feb 2020
 
 Keystone Symposium  
 Intra- and Intercellular Mechanisms of Aging (B2)  
@@ -26,7 +26,7 @@ Discounted registration deadline: Dec 11, 2019
 Abstract deadline: Nov 7, 2019.  
 http://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1614  
 
-### Mar
+### Mar 2020
 
 International Conference on Frailty and Sarcopenia Research (ICFSR 2020)  
 March 11-13, 2020, Toulouse, France  
@@ -34,7 +34,7 @@ Late call for abstracst: January 14-28, 2020
 All abstracts and proceedings will be published in the Journal of Frailty and Aging  
 https://frailty-sarcopenia.com/  
   
-### Apr
+### Apr 2020
 
 Experimental Biology 2020  
 April 4–7, 2020, San Diego, California  
@@ -46,7 +46,7 @@ Longevity Leaders World Congress
 April 21-22, 2020, London, England, UK  
 https://www.lsxleaders.com  
 
-### May
+### May 2020
 
 Harvard/Paul F. Glenn Symposium on Aging  
 May 18, 2020, Harvard Medical School, Boston, Massachusetts  
@@ -59,7 +59,7 @@ May 31-June 5, 2020, Mt. Snow, West Dover, Vermont, USA
 Organizers: Vadim Gladyshev, Steve Horvath  
 https://www.grc.org/systems-aging-conference/2020/  
   
-### Jun
+### Jun 2020
 
 American Aging Association 49th Annual Meeting  
 "Metabolism of Aging"  
@@ -67,13 +67,13 @@ June 19-21, 2020, Madison, Wisconsin.
 Held in conjunction with the Nathan Shock Centers Annual Meeting June 17-18.  
 https://www.americanagingassociation.org  
   
-### Jul
+### Jul 2020
 
 15th International Symposium on Neurobiology and Neuroendocrinology of Aging  
 July 17-21, 2020, Bregenz, Austria  
 www.neurobiology-and-neuroendocrinology-of-aging.org  
   
-### Aug
+### Aug 2020
 
 Aug 20-21 (online)  
 EARD 2020: Ending Age-Related Diseases 2020  
@@ -88,13 +88,13 @@ https://www.lifespan.io/eard-2020-virtual/
   - Free Ticket (sales end Aug 21)  
     - Gives you access to watch the Keynote talks by Aubrey de Grey and Brian Kennedy. It also allows you to interact in related chat, polls, questions. All tickets include exclusive free access to 3-hour workshop Developing a Biotechnology Startup by Dr. Kelsey Moody, recorded at last year's conference, which will be broadcast during the event.  
   
-### Sep
+### Sep 2020
 
 Sep 1-4 (online)  
 ARDD 2020: 7th Aging Resarch & Drug Discovery Meeting  
 http://agingpharma.org/  
 
-### Oct
+### Oct 2020
 
 Oct 1 (online)
 Longevity Investors Conference  
@@ -108,7 +108,7 @@ http://www.eha-heales.org/
 - original date/loc: Oct 1-3, 2020  (Brussels, Belgium)  
 - covid-19 resched: TBD (online)  
 
-### Nov
+### Nov 2020
 
 Nov 4-8 (online)  
 GSA 2020: Gerontological Society of America Annual Scientific Meeting  
@@ -116,11 +116,13 @@ https://www.geron.org/meetings-events/gsa-2020-annual-scientific-meeting
 - original date/loc: Nov 4-8, 2020 (Philadelphia, USA)  
 - covid-19 resched: Nov 4-8, 2020 (online)  
   
-### Dec
+### Dec 2020
 
 ---  
 
 ## 2021  
+
+### May 2021  
 
 May 13-15 (Berlin, Germany)  
 Undoing Aging - Reimagine Aging  
