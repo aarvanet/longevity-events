@@ -94,6 +94,16 @@ Sep 1-4 (online)
 ARDD 2020: 7th Aging Resarch & Drug Discovery Meeting  
 http://agingpharma.org/  
 
+Sep 11 (online) - 11:00-12:30 EDT  
+Biological Clocks and Other Biomarkers of Aging in Regulatory Development  
+https://www.eventbrite.com/e/biological-clocks-and-other-biomarkers-of-aging-in-regulatory-development-tickets-114423317222  
+- free registration  
+- speakers:  
+  - Steve Horvath, PhD, ScD (Professor in Human Genetics and Biostatistics Departments of the Geffen School of Medicine at UCLA)  
+  - Morgan Levine, PhD (Professor within the Department of Pathology at the Yale School of Medicine)  
+  - Polina Mamoshina, PhD (chief scientist at Deep Longevity)  
+  - Robert Temple, MD (Deputy Center Director for Clinical Science at the FDA’s Center for Drug Evaluation and Research)  
+
 ### Oct 2020
 
 Oct 1 (online)  
