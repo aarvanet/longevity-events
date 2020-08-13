@@ -87,6 +87,10 @@ https://www.lifespan.io/eard-2020-virtual/
     - A $300 regular ticket that will give you access to all of the main event content and recordings and will allow you to participate in polls, open chats, and discussions. All tickets include exclusive free access to 3-hour workshop Developing a Biotechnology Startup by Dr. Kelsey Moody, recorded at last year's conference, which will be broadcast during the event.  
   - Free Ticket (sales end Aug 21)  
     - Gives you access to watch the Keynote talks by Aubrey de Grey and Brian Kennedy. It also allows you to interact in related chat, polls, questions. All tickets include exclusive free access to 3-hour workshop Developing a Biotechnology Startup by Dr. Kelsey Moody, recorded at last year's conference, which will be broadcast during the event.  
+  - Premium Ticket - Day 2: $354.91 (Sales start on Aug 20, 2020)  
+    - A premium ticket for day 2 of the conference only. Still includes access to the recordings following the conference as the full tickets do.  
+  - Regular Ticket - Day 2: $213.80 (Sales start on Aug 20, 2020)  
+    - A regular ticket for day 2 of the conference only. Still includes access to the recordings following the conference as the full tickets do.  
   
 ### Sep 2020
 
