@@ -112,6 +112,13 @@ https://www.longevityinvestors.ch/
 - original date/loc: Oct 1, 2020 (St. Moritz, Switzerland)  
 - covid-19 resched: Oct 1, 2020 (online)  
 
+Oct 1 (online)  
+Fifth Eurosymposium on Healthy Ageing (EHA)  
+http://www.eha-heales.org/  
+- original date/loc: Oct 1-3, 2020  (Brussels, Belgium)  
+- covid-19 resched: Oct 1 (online)  
+- free with registration  
+
 Oct 23-24 (online) (Sat, Oct 24, 2020 10:00 AM - Sun, Oct 25, 2020 8:00 PM CEST)  
 BIOSTASIS 2020  
 https://biostasis2020.com/  
@@ -119,11 +126,6 @@ https://biostasis2020.com/
   - Early Bird Ticket - Streaming/Online Participation: €49.00 (Sales end on Oct 1, 2020)  
   - Standard Ticket - Streaming/Online Participation: €99.00 (Sales end on Oct 23, 2020)  
 
-TBD (online)  
-Fifth Eurosymposium on Healthy Ageing (EHA)  
-http://www.eha-heales.org/  
-- original date/loc: Oct 1-3, 2020  (Brussels, Belgium)  
-- covid-19 resched: TBD (online)  
 
 ### Nov 2020
 
