@@ -94,7 +94,7 @@ Sep 1-4 (online)
 ARDD 2020: 7th Aging Resarch & Drug Discovery Meeting  
 http://agingpharma.org/  
 
-Sep 11 (online) - 11:00-12:30 EDT  
+Sep 11 (online) (11:00-12:30 EDT)  
 Biological Clocks and Other Biomarkers of Aging in Regulatory Development  
 https://www.eventbrite.com/e/biological-clocks-and-other-biomarkers-of-aging-in-regulatory-development-tickets-114423317222  
 - free registration  
@@ -112,7 +112,7 @@ https://www.longevityinvestors.ch/
 - original date/loc: Oct 1, 2020 (St. Moritz, Switzerland)  
 - covid-19 resched: Oct 1, 2020 (online)  
 
-Oct 23-24 (online)  
+Oct 23-24 (online) (Sat, Oct 24, 2020 10:00 AM - Sun, Oct 25, 2020 8:00 PM CEST)  
 BIOSTASIS 2020  
 https://biostasis2020.com/  
 - tickets: https://www.eventbrite.com/e/biostasis2020-annual-biostasis-conference-onlinestreaming-tickets-91992509071  
