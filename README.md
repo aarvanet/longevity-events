@@ -1,6 +1,6 @@
 # longevity-events
 
-- Initial list via John D. Furber's compilation: https://legendarypharma.com/age-calendar-archive20191128.pdf  
+- initial list via John D. Furber's compilation: https://legendarypharma.com/age-calendar-archive20191128.pdf  
 
 - archived events: https://github.com/aarvanet/longevity-events/blob/master/archive/  
 
