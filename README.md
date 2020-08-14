@@ -97,6 +97,7 @@ https://www.lifespan.io/eard-2020-virtual/
 Sep 1-4 (online)  
 ARDD 2020: 7th Aging Resarch & Drug Discovery Meeting  
 http://agingpharma.org/  
+- Registration Deadline: Monday August 31, 2020 at 9:00 AM  
 
 Sep 11 (online) (11:00-12:30 EDT)  
 Biological Clocks and Other Biomarkers of Aging in Regulatory Development  
