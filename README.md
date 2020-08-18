@@ -73,6 +73,9 @@ https://www.geron.org/meetings-events/gsa-2020-annual-scientific-meeting
 - original date/loc: Nov 4-8, 2020 (Philadelphia, USA)  
 - covid-19 resched: Nov 4-8, 2020 (online)  
 
+Nov 9-12 (online)  
+https://thelongevityforum.com/  
+
 ---  
 
 ## 2021  
